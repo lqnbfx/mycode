@@ -14,7 +14,7 @@ mysql_srcfile=mysql-8.0.15-linux-glibc2.12-x86_64.tar.xz
 #mysql安装路径
 mysql_path=/usr/local/mysql
 #mysql_root密码
-mysql_root_password=DongBaoSoft
+mysql_root_password=123456
 #mysql服务端口
 mysql_port=3306
 mysqlx_port=33060
