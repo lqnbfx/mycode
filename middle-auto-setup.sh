@@ -24,7 +24,7 @@ redis_bindip=0.0.0.0
 #redis端口
 redis_port=6379
 #redis密码
-redis_pass=DongBaoSoft
+redis_pass=123456
 #redis最大可用内存,默认0不限制，列如1GB可以写为1024M，1G
 redis_memory=0
 
